@@ -1,0 +1,1 @@
+//Crie uma classe Produto com um construtor que aceite dois ou três parâmetros (nome, preco, categoria). Se categoria não for informado, defina como "Indefinido".
